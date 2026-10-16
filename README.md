@@ -1,1 +1,1 @@
-# cooja-gossip-simulation
+Cooja Gossiping Protocol Simulation
